@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palmtree.Math.Interop", "Palmtree.Math.Interop\Palmtree.Math.Interop.csproj", "{03A9CAA8-97F9-4031-99ED-AE6C1B0723FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palmtree.Math.Interop.Test", "Palmtree.Math.Interop.Test\Palmtree.Math.Interop.Test.csproj", "{54E30826-0B31-4131-A6C7-547811C55FED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A9CAA8-97F9-4031-99ED-AE6C1B0723FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A9CAA8-97F9-4031-99ED-AE6C1B0723FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A9CAA8-97F9-4031-99ED-AE6C1B0723FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A9CAA8-97F9-4031-99ED-AE6C1B0723FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E30826-0B31-4131-A6C7-547811C55FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E30826-0B31-4131-A6C7-547811C55FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E30826-0B31-4131-A6C7-547811C55FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E30826-0B31-4131-A6C7-547811C55FED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0514D1B-EF04-403D-B751-845D09F9B0BB}
+	EndGlobalSection
+EndGlobal

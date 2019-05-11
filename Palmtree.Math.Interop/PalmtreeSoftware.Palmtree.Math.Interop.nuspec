@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>PalmtreeSoftware.Palmtree.Math.Interop</id>
+    <version>1.0.0</version>
+    <title>Palmtree 数値演算ライブラリ 相互運用機能</title>
+    <authors>Palmtree Software</authors>
+    <owners>Palmtree Software</owners>
+    <licenseUrl>https://github.com/rougemeilland/Palmtree.Math.Interop/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/rougemeilland/Palmtree.Math.Interop</projectUrl>
+    <repository type="git" url="https://github.com/rougemeilland/Palmtree.Math.Interop" />
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Palmtree 数値演算ライブラリ 相互運用機能</description>
+    <copyright>© 2019 Palmtree Software</copyright>
+    <dependencies>
+      <dependency id="PalmtreeSoftware.Palmtree.Math" version="1.0.0"/>
+    </dependencies>
+  </metadata>
+  <files> 
+    <file src="bin\Release\Palmtree.Math.Interop.dll" target="lib\net45" />
+    <file src="bin\Release\Palmtree.Math.Interop.dll" target="lib\net451" />
+    <file src="bin\Release\Palmtree.Math.Interop.dll" target="lib\net452" />
+    <file src="bin\Release\Palmtree.Math.Interop.dll" target="lib\net46" />
+    <file src="bin\Release\Palmtree.Math.Interop.dll" target="lib\net461" />
+    <file src="bin\Release\Palmtree.Math.Interop.dll" target="lib\net471" />
+    <file src="bin\Release\Palmtree.Math.Interop.dll" target="lib\net472" />
+
+  </files>
+</package>
